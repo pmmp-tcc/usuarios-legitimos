@@ -51,7 +51,7 @@ n = 200
 users = sample(users, n)
 
 
-archive = open('Usuarios_camaradeputados.txt', 'a')
+archive = open('Usuarios_xxx.txt', 'a')
 
 
 for i in users:
